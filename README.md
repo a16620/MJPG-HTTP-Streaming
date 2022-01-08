@@ -1,5 +1,5 @@
-# MPEG HTTP Streaming
- HTTP 서버를 통해 MPEG 이미지를 지속적으로 송출합니다. 오디오가 필요하지 않을 때 CCTV나 IP카메라 용도로 사용할 수 있습니다. 
+# MJPG HTTP Streaming
+ HTTP 서버를 통해 JPEG 이미지를 지속적으로 송출합니다. 오디오가 필요하지 않을 때 CCTV나 IP카메라 용도로 사용할 수 있습니다. 
  
 # 요구 사항
  실행 환경에 golang과 openCV, gocv가 설치되어있어야 합니다.
